@@ -1,7 +1,5 @@
 # ibc-rs
 
-[![Jupiter ecosystem][Jupiter-shield]][Jupiter-link]
-
 [![Build Status][build-image]][build-link]
 [![End to End testing][e2e-image]][e2e-link]
 [![Apache 2.0 Licensed][license-image]][license-link]
